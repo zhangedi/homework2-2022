@@ -68,6 +68,10 @@ div {
     text-shadow: 2px 4px #c7e2c7;
 }
 
+.yellow p{
+    color: #000000;
+}
+
 .green {
     background-color: #00EB00;
     text-align: left;
